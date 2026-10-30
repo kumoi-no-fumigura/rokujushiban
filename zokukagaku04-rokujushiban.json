@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujushiban",
  "yomi": "ろくじゅうしばんうたむすび",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（64番）",
+  "era": "文化12年（1815）2月25日判",
+  "author": "判者 香川景樹",
+  "desc": "京の景樹門下が春に結んだ64番の歌合に、景樹が判を加えたもの。一番ごとに題を立てる。のちに江戸の門人が板に彫った。"
+ },
  "editions": [
   {
    "pid": "993382",
